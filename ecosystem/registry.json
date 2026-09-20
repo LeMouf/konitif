@@ -428,9 +428,9 @@
       "membership": "included",
       "repository": "https://github.com/LeMouf/konitif-viewer-3d",
       "revision": {
-        "version": "0.285.2",
-        "sourceCommit": "b7190b3b6f69164bc43f75164b3b3609699b71d3",
-        "artifact": { "url": "https://registry.npmjs.org/@konitif/viewer-3d/-/viewer-3d-0.285.2.tgz", "integrity": "sha512-gzqphSWi018qYN1mhz+bydyhTNUXX9AGIq23zkjkOSB7TpGMSBjrEnzhJMC27JH4kjSLZphntXcVUylqCPKXHA==" }
+        "version": "0.285.3",
+        "sourceCommit": "2ff02c595b2d697e1762f77e8854149f6328ebb4",
+        "artifact": { "url": "https://registry.npmjs.org/@konitif/viewer-3d/-/viewer-3d-0.285.3.tgz", "integrity": "sha512-bTfXkxX5k5OLdblWCtKZExdsW+FP64vllSaGp+hrf+Vr+1VkDSH87aH0n6rocDrQ9GHn9gdVg834wNZbfh7YZQ==" }
       },
       "license": "PolyForm-Noncommercial-1.0.0",
       "introducedOn": "2026-09-20",
@@ -438,7 +438,7 @@
       "replacedBy": null,
       "dependencies": ["konitif:physics", "konitif:temporal", "konitif:tools", "konitif:viewer"],
       "evidence": [
-        { "claim": "Public npm metadata checked on 2026-09-20 records Viewer 3D 0.285.2 and its artifact integrity digest.", "url": "https://registry.npmjs.org/@konitif%2fviewer-3d/0.285.2", "status": "recorded" }
+        { "claim": "Public npm metadata checked on 2026-09-21 records Viewer 3D 0.285.3 and its artifact integrity digest.", "url": "https://registry.npmjs.org/@konitif%2fviewer-3d/0.285.3", "status": "recorded" }
       ],
       "unknowns": ["Third-party Three.js dependency provenance is not recorded in this KONITIF registry entry.", "Cryptographic provenance signature verification is not recorded.", "Independent ownership and third-party contribution review are not recorded."],
       "accessibility": "public",
